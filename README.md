@@ -22,7 +22,6 @@
   <img align="center" alt="Francisco-Spring" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Francisco-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Francisco-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Francisco-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
 
 
 </div>
