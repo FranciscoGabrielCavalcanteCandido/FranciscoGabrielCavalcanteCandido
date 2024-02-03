@@ -2,7 +2,7 @@
 
 <ul>
   <li><a>Software Engineering student at College <b>IFPR</b>(Instituto Federal do Paraná de Paranavaí)</a></li>
-  <li><a>I work as a trainee developer at Icode - Sistemas</a></li>
+  <li><a>I work as a trainee developer at Curia Online do Brasil</a></li>
 </ul>
 
 <div align="center">
