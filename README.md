@@ -18,7 +18,6 @@
   <img align="center" alt="Francisco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Francisco-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Francisco-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Francisco-Spring" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Francisco-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Francisco-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
