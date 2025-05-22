@@ -1,7 +1,7 @@
 # Francisco Gabriel Cavalcante Candido 
 
 <ul>
-  <li><a>Egenheiro de Software <b>IFPR</b>(Instituto Federal do Paraná de Paranavaí)</a></li>
+  <li><a>Engenheiro de Software <b>IFPR</b>(Instituto Federal do Paraná de Paranavaí)</a></li>
 </ul>
 
 <div align="center">
