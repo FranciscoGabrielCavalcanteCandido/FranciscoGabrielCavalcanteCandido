@@ -1,27 +1,43 @@
-# Francisco Gabriel Cavalcante Candido 
+# 👋 Olá, eu sou Francisco Gabriel Cavalcante Candido
 
-<ul>
-  <li><a>Engenheiro de Software <b>IFPR</b>(Instituto Federal do Paraná de Paranavaí)</a></li>
-</ul>
+🎓 Formado em Engenharia de Software no **IFPR - Instituto Federal do Paraná (Paranavaí)**  
+💻 Apaixonado por tecnologia, programação e desenvolvimento de software e designer grafico.
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/FranciscoGabrielCavalcanteCandido"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoGabrielCavalcanteCandido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoGabrielCavalcanteCandido&layout=compact&langs_count=7&theme=tokyonight"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=FranciscoGabrielCavalcanteCandido&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
 
-# Tecnologias:
+
+</div>
+
+---
+
+# 🚀 Tecnologias
+
 <div style="display: inline_block"><br>
- 
-  <img align="center" alt="Francisco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Francisco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Francisco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Francisco-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Francisco-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Francisco-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Francisco-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
+<img align="center" alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+<img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<img align="center" alt="Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+
+<img align="center" alt="Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+
+<img align="center" alt="Dart" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
+
+<img align="center" alt="Flutter" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
 
 </div>
 
+---
 
+⭐ Sempre buscando aprender novas tecnologias e evoluir como desenvolvedor.
